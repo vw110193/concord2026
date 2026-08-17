@@ -1,4 +1,2286 @@
 {
   "showError": false,
-  "races": []
+  "races": [
+    {
+      "heat": "1",
+      "scheduledTime": "08:00:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 1",
+      "advancementWording": "Advancements: 1st to Race 19; 2nd to Race 16; 3rd to Race 17;\n                          4th to Race 18; 5th to Race 15; 6th to Race 12;\n                          7th to Race 13; 8th to Race 14;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "DH Friends",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Quantum Guardian",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Max Storm",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Team Lifescan",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Watermelons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "ZERO",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Concord Pacific Flying Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "DZPC Otters",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "2",
+      "scheduledTime": "08:11:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 2",
+      "advancementWording": "Advancements: 1st to Race 18; 2nd to Race 19; 3rd to Race 16;\n                          4th to Race 17; 5th to Race 14; 6th to Race 15;\n                          7th to Race 12; 8th to Race 13;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Nothin' Dragon Rock",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Hydro Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Orca",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Eternal Dragon",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Hongkongers",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Dragon Hybrids",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Off Balance",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "DZPC Seals",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "3",
+      "scheduledTime": "08:22:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 3",
+      "advancementWording": "Advancements: 1st to Race 17; 2nd to Race 18; 3rd to Race 19;\n                          4th to Race 16; 5th to Race 13; 6th to Race 14;\n                          7th to Race 15; 8th to Race 12;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Harbour Kollective",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "DH Motley Crew",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Chinatown Flower Bridge",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "DH Swordfish",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Dragon Zone 18U Mixed",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Shocked Uncwave",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Beer After",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "DZPC Salmon",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "4",
+      "scheduledTime": "08:33:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 4",
+      "advancementWording": "Advancements: 1st to Race 16; 2nd to Race 17; 3rd to Race 18;\n                          4th to Race 19; 5th to Race 12; 6th to Race 13;\n                          7th to Race 14; 8th to Race 15;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Wave Catchers",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Ouroboros Platinum",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Brier Fire",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Starbucks Waverunners",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "UBC Current Bman",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Twist'n Trout",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "STEMCELL Technologies",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "Richmond Food Bank",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "5",
+      "scheduledTime": "08:44:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 5",
+      "advancementWording": "Advancements: 1st to Race 16; 2nd to Race 17; 3rd to Race 18;\n                          4th to Race 19; 5th to Race 12; 6th to Race 13;\n                          7th to Race 14; 8th to Race 15;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Fire Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "FLCC Fort Fusion",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Reach It Out (RIO) dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "JUICEBOX",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "SFU Shockwave",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Kitsch 'N Sync",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Concord Pacific Flying Twisted Dragon Hips 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "Vision Impossible",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "6",
+      "scheduledTime": "08:55:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 6",
+      "advancementWording": "Advancements: 1st to Race 17; 2nd to Race 18; 3rd to Race 19;\n                          4th to Race 16; 5th to Race 13; 6th to Race 14;\n                          7th to Race 15; 8th to Race 12;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Twisted Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Metro Vancouver 44 Cheeks",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Otter Chaos",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "FCRCC Premier",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "UBC Current Ayman",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Inlet Spirit",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Grandragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "Blue Bloods",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "7",
+      "scheduledTime": "09:06:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 7",
+      "advancementWording": "Advancements: 1st to Race 18; 2nd to Race 19; 3rd to Race 16;\n                          4th to Race 17; 5th to Race 14; 6th to Race 15;\n                          7th to Race 12; 8th to Race 13;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Butts in a Boat",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "TCC Dragoneers",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "DH Velocity",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Dragon Zone 24U Mixed",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Dragon Hearts Breaker",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "CrossNA Happy Trails",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "YVR Soaring Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "Dragon Claws",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "8",
+      "scheduledTime": "09:17:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed Qualifier 8",
+      "advancementWording": "Advancements: 1st to Race 19; 2nd to Race 16; 3rd to Race 17;\n                          4th to Race 18; 5th to Race 15; 6th to Race 12;\n                          7th to Race 13; 8th to Race 14;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "FCRCC - The Eh Team",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Atlas-Quantum",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "DH Slayers",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "JUICE",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Stantec Splash",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Dashing Ducks",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "One Dragon",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "TD Green Machine",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "9",
+      "scheduledTime": "09:39:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Women Qualifier 1",
+      "advancementWording": "Advancements: 1st and 4th to Race 24, 2nd and 3rd to Race 25;\n                          5th, 6th and 7th to Race 23;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Braggin Dragons 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Chawanda - SDBA",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Quantum Princess",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Stroke the Dragon",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "FLCC Race Crew",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "FCRCC Saggin Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Rainbow Riders",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "10",
+      "scheduledTime": "09:50:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Women Qualifier 2",
+      "advancementWording": "Advancements: 1st, 4th and 5th to Race 24, 2nd and 3rd to Race 25;\n                          6th and 7th to Race 23;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Momentum",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Inlet Storm",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Sisters in Sync",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "FCRCC SrC Women",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "UBC Current Aywomen",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Inlet Spirit Women",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Century Dragons",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "11",
+      "scheduledTime": "10:01:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Women Qualifier 3",
+      "advancementWording": "Advancements: 1st, 4th and 5th to Race 25, 2nd and 3rd to Race 24;\n                          6th and 7th to Race 23;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Gals on the Gunnel",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Atomic Furies",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "False Creek BCP",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Dragon Zone Premier Women",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Dragon Ladies",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "FLCC Dragonflies",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Sea Gals",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "12",
+      "scheduledTime": "10:23:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed E/F/G/H Semi 1",
+      "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "7th from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "6th from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "6th from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "7th from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 6",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "13",
+      "scheduledTime": "10:34:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed E/F/G/H Semi 2",
+      "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "7th from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "6th from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "6th from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "7th from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 7",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "14",
+      "scheduledTime": "10:45:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed E/F/G/H Semi 3",
+      "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "7th from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "6th from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "6th from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "7th from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 8",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "15",
+      "scheduledTime": "10:56:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed E/F/G/H Semi 4",
+      "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "7th from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "6th from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "6th from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "7th from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 5",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "16",
+      "scheduledTime": "11:07:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed A/B/C/D Semi 1",
+      "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "3rd from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "2nd from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "3rd from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 6",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "17",
+      "scheduledTime": "11:18:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed A/B/C/D Semi 2",
+      "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "3rd from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "2nd from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "3rd from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 7",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "18",
+      "scheduledTime": "11:29:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Mixed A/B/C/D Semi 3",
+      "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "3rd from Race 5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "2nd from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "3rd from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 8",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "19",
+      "scheduledTime": "11:40:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Mixed A/B/C/D Semi 4",
+      "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "3rd from Race 6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "2nd from Race 7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "3rd from Race 3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 5",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "20",
+      "scheduledTime": "12:15:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Sport Hosting Vancouver Open Cup",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "UBC Current Aymen",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Dragon Zone Premier Open",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Dragon Zone 18U Mixed",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "21",
+      "scheduledTime": "12:26:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Concord Pacific Senior Cup",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "DH Friends",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Butts in a Boat",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Inlet Spirit",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "FCRCC - The Eh Team",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Nothin' Dragon Rock",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Paddle Power Seniors",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "22",
+      "scheduledTime": "12:37:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Oddball Workshop Junior Cup",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Atlas-Quantum",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Eternal Dragon",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Ouroboros Platinum",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "23",
+      "scheduledTime": "12:59:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Women Semi 1",
+      "advancementWording": "Advancements: Determined by total time of the first two races",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "7th from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "7th from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "6th from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "6th from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "6th from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "7th from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "24",
+      "scheduledTime": "13:10:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Women Semi 2",
+      "advancementWording": "Advancements: Determined by total time of the first two races",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "5th from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "4th from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "3rd from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "4th from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "25",
+      "scheduledTime": "13:21:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Women Semi 3",
+      "advancementWording": "Advancements: Determined by total time of the first two races",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "5th from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "3rd from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2nd from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "2nd from Race 9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "3rd from Race 10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "4th from Race 11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "#N/A",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "26",
+      "scheduledTime": "13:43:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed H Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "8th from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "7th from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "7th from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "7th from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "7th from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "8th from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 14",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "27",
+      "scheduledTime": "13:54:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed G Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "6th from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "6th from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "5th from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "5th from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "6th from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "6th from Race 13",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "28",
+      "scheduledTime": "14:05:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed F Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "4th from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "3rd from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "3rd from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "3rd from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "3rd from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "4th from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 12",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "29",
+      "scheduledTime": "14:16:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed E Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "2nd from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "2nd from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "1st from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "1st from Race 12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "2nd from Race 13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "2nd from Race 15",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "30",
+      "scheduledTime": "14:27:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed D Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "8th from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "8th from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "7th from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "7th from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "7th from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "7th from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "8th from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "8th from Race 18",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "31",
+      "scheduledTime": "14:38:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed C Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "6th from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "6th from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "5th from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "5th from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "5th from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "5th from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "6th from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "6th from Race 17",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "32",
+      "scheduledTime": "14:49:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Real Canadian Superstore Mixed B Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "4th from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "4th from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "3rd from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "3rd from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "3rd from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "3rd from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "4th from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "4th from Race 16",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "33",
+      "scheduledTime": "15:00:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "TD Mixed Grand Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "2nd from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "2nd from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "1st from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "1st from Race 19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "1st from Race 18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "1st from Race 16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "2nd from Race 17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "2nd from Race 19",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "34",
+      "scheduledTime": "15:22:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "HKETO Women C Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Women Total Time, Ranked #20",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Women Total Time, Ranked #18",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Women Total Time, Ranked #16",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Women Total Time, Ranked #17",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Women Total Time, Ranked #19",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Women Total Time, Ranked #21",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "35",
+      "scheduledTime": "15:33:00",
+      "color": "B",
+      "status": "NotRun",
+      "heatDescription": "Lincoln Women B Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Women Total Time, Ranked #15",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Women Total Time, Ranked #13",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Women Total Time, Ranked #11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Women Total Time, Ranked #9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Women Total Time, Ranked #10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Women Total Time, Ranked #12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Women Total Time, Ranked #14",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "36",
+      "scheduledTime": "15:44:00",
+      "color": "R",
+      "status": "NotRun",
+      "heatDescription": "Concord Pacific Women Grand Final",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "Women Total Time, Ranked #7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "Women Total Time, Ranked #5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "Women Total Time, Ranked #3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "Women Total Time, Ranked #1",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "Women Total Time, Ranked #2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "Women Total Time, Ranked #4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "Women Total Time, Ranked #6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "Women Total Time, Ranked #8",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "heat": "37",
+      "scheduledTime": "16:40:00",
+      "color": "B + R",
+      "status": "NotRun",
+      "heatDescription": "Concord Pacific Premier Guts and Glory",
+      "advancementWording": "",
+      "penaltyWording": "",
+      "updatedTime": "",
+      "resultsPending": false,
+      "results": [
+        {
+          "lane": "1",
+          "teamName": "2K Qualifing Time, Ranked #12",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "2",
+          "teamName": "2K Qualifing Time, Ranked #11",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "3",
+          "teamName": "2K Qualifing Time, Ranked #10",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "4",
+          "teamName": "2K Qualifing Time, Ranked #9",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "5",
+          "teamName": "2K Qualifing Time, Ranked #8",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "6",
+          "teamName": "2K Qualifing Time, Ranked #7",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "7",
+          "teamName": "2K Qualifing Time, Ranked #6",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "8",
+          "teamName": "2K Qualifing Time, Ranked #5",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "9",
+          "teamName": "2K Qualifing Time, Ranked #4",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "10",
+          "teamName": "2K Qualifing Time, Ranked #3",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "11",
+          "teamName": "2K Qualifing Time, Ranked #2",
+          "totalTime": "",
+          "place": ""
+        },
+        {
+          "lane": "12",
+          "teamName": "2K Qualifing Time, Ranked #1",
+          "totalTime": "",
+          "place": ""
+        }
+      ]
+    }
+  ]
 }
