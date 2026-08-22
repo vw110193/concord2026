@@ -1957,60 +1957,60 @@
       "heat": "33",
       "scheduledTime": "15:00:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "TD Mixed Grand Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "15:13:29",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:20.110",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Starbucks Waverunners",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:17.591",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "FCRCC Premier",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:09.650",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "JUICE",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:00.891",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Dragon Zone 24U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:07.681",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "JUICEBOX",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:07.915",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Dragon Zone 18U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:19.710",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Dragon Hearts Breaker",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:27.968",
+          "place": "8"
         }
       ]
     },
