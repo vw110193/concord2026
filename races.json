@@ -1469,54 +1469,54 @@
       "heat": "25",
       "scheduledTime": "13:21:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Semi 3",
       "advancementWording": "Advancements: Determined by total time of the first two races",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:15:24",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.568",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "Quantum Princess",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:46.697",
+          "place": "7"
         },
         {
           "lane": "3",
           "teamName": "Inlet Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.849",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone Premier Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:07.191",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Stroke the Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:25.576",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Sisters in Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:29.630",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:32.199",
+          "place": "5"
         },
         {
           "lane": "8",
@@ -2033,37 +2033,37 @@
         },
         {
           "lane": "2",
-          "teamName": "Women Total Time, Ranked #20",
+          "teamName": "Momentum",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "Women Total Time, Ranked #18",
+          "teamName": "Gals on the Gunnel",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "Women Total Time, Ranked #16",
+          "teamName": "Quantum Princess",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "Women Total Time, Ranked #17",
+          "teamName": "Century Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "Women Total Time, Ranked #19",
+          "teamName": "Sea Gals",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "Women Total Time, Ranked #21",
+          "teamName": "Braggin Dragons 2",
           "totalTime": "",
           "place": ""
         },
@@ -2088,43 +2088,43 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "Women Total Time, Ranked #15",
+          "teamName": "Rainbow Riders",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "Women Total Time, Ranked #13",
+          "teamName": "Inlet Spirit Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "Women Total Time, Ranked #11",
+          "teamName": "Chawanda - SDBA",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "Women Total Time, Ranked #9",
+          "teamName": "Inlet Storm",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "Women Total Time, Ranked #10",
+          "teamName": "FLCC Dragonflies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "Women Total Time, Ranked #12",
+          "teamName": "FCRCC Saggin Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "Women Total Time, Ranked #14",
+          "teamName": "Atomic Furies",
           "totalTime": "",
           "place": ""
         },
@@ -2149,49 +2149,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "Women Total Time, Ranked #7",
+          "teamName": "Sisters in Sync",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "Women Total Time, Ranked #5",
+          "teamName": "False Creek BCP",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "Women Total Time, Ranked #3",
+          "teamName": "FLCC Race Crew",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "Women Total Time, Ranked #1",
+          "teamName": "Dragon Zone Premier Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "Women Total Time, Ranked #2",
+          "teamName": "FCRCC SrC Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "Women Total Time, Ranked #4",
+          "teamName": "Stroke the Dragon",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "Women Total Time, Ranked #6",
+          "teamName": "Dragon Ladies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "Women Total Time, Ranked #8",
+          "teamName": "UBC Current Aywomen",
           "totalTime": "",
           "place": ""
         }
