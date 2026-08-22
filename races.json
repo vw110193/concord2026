@@ -2140,60 +2140,60 @@
       "heat": "36",
       "scheduledTime": "15:44:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Concord Pacific Women Grand Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "15:48:01",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Sisters in Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:47.030",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "False Creek BCP",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.685",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:30.480",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone Premier Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:16.767",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:26.043",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Stroke the Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:37.070",
+          "place": "5"
         },
         {
           "lane": "7",
           "teamName": "Dragon Ladies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:41.658",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "UBC Current Aywomen",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:43.043",
+          "place": "7"
         }
       ]
     },
@@ -2210,73 +2210,73 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "2K Qualifing Time, Ranked #12",
+          "teamName": "DH Swordfish",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "2K Qualifing Time, Ranked #11",
+          "teamName": "Dragon Zone 18U Mixed",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2K Qualifing Time, Ranked #10",
+          "teamName": "SFU Shockwave",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "2K Qualifing Time, Ranked #9",
+          "teamName": "Hongkongers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "2K Qualifing Time, Ranked #8",
+          "teamName": "Team Lifescan",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "2K Qualifing Time, Ranked #7",
+          "teamName": "Starbucks Waverunners",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "2K Qualifing Time, Ranked #6",
+          "teamName": "UBC Current Ayman",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "2K Qualifing Time, Ranked #5",
+          "teamName": "Dragon Zone Premier Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "9",
-          "teamName": "2K Qualifing Time, Ranked #4",
+          "teamName": "FCRCC Premier",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "10",
-          "teamName": "2K Qualifing Time, Ranked #3",
+          "teamName": "JUICEBOX",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "11",
-          "teamName": "2K Qualifing Time, Ranked #2",
+          "teamName": "Dragon Zone 24U Mixed",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "12",
-          "teamName": "2K Qualifing Time, Ranked #1",
+          "teamName": "JUICE",
           "totalTime": "",
           "place": ""
         }
