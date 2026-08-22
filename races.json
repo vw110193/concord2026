@@ -432,60 +432,60 @@
       "heat": "8",
       "scheduledTime": "09:17:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 8",
       "advancementWording": "Advancements: 1st to Race 19; 2nd to Race 16; 3rd to Race 17;\n                          4th to Race 18; 5th to Race 15; 6th to Race 12;\n                          7th to Race 13; 8th to Race 14;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:31:37",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.807",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Quantum Guardian",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:47.088",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "DH Slayers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.673",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "JUICE",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:06.732",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Stantec Splash",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.123",
+          "place": "7"
         },
         {
           "lane": "6",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.326",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:38.196",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "TD Green Machine",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:38.396",
+          "place": "5"
         }
       ]
     },
@@ -685,49 +685,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "8th from Race 3",
+          "teamName": "Harbour Kollective",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "7th from Race 7",
+          "teamName": "YVR Soaring Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "6th from Race 1",
+          "teamName": "Concord Pacific Flying Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "5th from Race 5",
+          "teamName": "Kitsch 'N Sync",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "5th from Race 4",
+          "teamName": "Ouroboros Platinum",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "6th from Race 8",
+          "teamName": "Quantum Guardian",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "7th from Race 2",
+          "teamName": "Off Balance",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "8th from Race 6",
+          "teamName": "Grandragons",
           "totalTime": "",
           "place": ""
         }
@@ -746,49 +746,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "8th from Race 2",
+          "teamName": "DZPC Seals",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "7th from Race 8",
+          "teamName": "Stantec Splash",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "6th from Race 4",
+          "teamName": "STEMCELL Technologies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "5th from Race 6",
+          "teamName": "Metro Vancouver 44 Cheeks",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "5th from Race 3",
+          "teamName": "DH Motley Crew",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "6th from Race 5",
+          "teamName": "Concord Pacific Flying Twisted Dragon Hips 2",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "7th from Race 1",
+          "teamName": "DH Friends",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "8th from Race 7",
+          "teamName": "Dragon Claws",
           "totalTime": "",
           "place": ""
         }
@@ -807,49 +807,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "8th from Race 1",
+          "teamName": "DZPC Otters",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "7th from Race 5",
+          "teamName": "Fire Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "6th from Race 3",
+          "teamName": "Beer After",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "5th from Race 7",
+          "teamName": "CrossNA Happy Trails",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "5th from Race 2",
+          "teamName": "Eternal Dragon",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "6th from Race 6",
+          "teamName": "Blue Bloods",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "7th from Race 4",
+          "teamName": "Richmond Food Bank",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "8th from Race 8",
+          "teamName": "FCRCC - The Eh Team",
           "totalTime": "",
           "place": ""
         }
@@ -868,49 +868,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "8th from Race 4",
+          "teamName": "Wave Catchers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "7th from Race 6",
+          "teamName": "Twisted Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "6th from Race 2",
+          "teamName": "Nothin' Dragon Rock",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "5th from Race 8",
+          "teamName": "TD Green Machine",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "5th from Race 1",
+          "teamName": "Atlas-Quantum",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "6th from Race 7",
+          "teamName": "Butts in a Boat",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "7th from Race 3",
+          "teamName": "DZPC Salmon",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "8th from Race 5",
+          "teamName": "Vision Impossible",
           "totalTime": "",
           "place": ""
         }
@@ -929,49 +929,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "4th from Race 3",
+          "teamName": "Chinatown Flower Bridge",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "3rd from Race 7",
+          "teamName": "DH Velocity",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 1",
+          "teamName": "ZERO",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 5",
+          "teamName": "JUICEBOX",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "1st from Race 4",
+          "teamName": "Starbucks Waverunners",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "2nd from Race 8",
+          "teamName": "DH Slayers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "3rd from Race 2",
+          "teamName": "Orca",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "4th from Race 6",
+          "teamName": "Inlet Spirit",
           "totalTime": "",
           "place": ""
         }
@@ -990,49 +990,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "4th from Race 2",
+          "teamName": "Hydro Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "3rd from Race 8",
+          "teamName": "Dashing Ducks",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 4",
+          "teamName": "Twist'n Trout",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 6",
+          "teamName": "FCRCC Premier",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "1st from Race 3",
+          "teamName": "Dragon Zone 18U Mixed",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "2nd from Race 5",
+          "teamName": "SFU Shockwave",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "3rd from Race 1",
+          "teamName": "Watermelons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "4th from Race 7",
+          "teamName": "TCC Dragoneers",
           "totalTime": "",
           "place": ""
         }
@@ -1051,49 +1051,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "4th from Race 1",
+          "teamName": "Max Storm",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "3rd from Race 5",
+          "teamName": "Reach It Out (RIO) dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 3",
+          "teamName": "DH Swordfish",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 7",
+          "teamName": "Dragon Zone 24U Mixed",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "1st from Race 2",
+          "teamName": "Hongkongers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "2nd from Race 6",
+          "teamName": "UBC Current Ayman",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "3rd from Race 4",
+          "teamName": "UBC Current Bman",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "4th from Race 8",
+          "teamName": "One Dragon",
           "totalTime": "",
           "place": ""
         }
@@ -1112,49 +1112,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "4th from Race 4",
+          "teamName": "Brier Fire",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "3rd from Race 6",
+          "teamName": "Otter Chaos",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 2",
+          "teamName": "Dragon Hybrids",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 8",
+          "teamName": "JUICE",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "1st from Race 1",
+          "teamName": "Team Lifescan",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "2nd from Race 7",
+          "teamName": "Dragon Hearts Breaker",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "3rd from Race 3",
+          "teamName": "Shocked Uncwave",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "4th from Race 5",
+          "teamName": "FLCC Fort Fusion",
           "totalTime": "",
           "place": ""
         }
