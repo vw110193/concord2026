@@ -497,50 +497,50 @@
       "heatDescription": "Women Qualifier 1",
       "advancementWording": "Advancements: 1st and 4th to Race 24, 2nd and 3rd to Race 25;\n                          5th, 6th and 7th to Race 23;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:38:52",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:55.301",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:42.605",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Quantum Princess",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:40.920",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Stroke the Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:30.226",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:25.321",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:41.103",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Century Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:51.864",
+          "place": "6"
         },
         {
           "lane": "8",
