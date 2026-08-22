@@ -4,7 +4,7 @@
     {
       "heat": "1",
       "scheduledTime": "08:00:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 1",
       "advancementWording": "Advancements: 1st to Race 19; 2nd to Race 16; 3rd to Race 17;\n                          4th to Race 18; 5th to Race 15; 6th to Race 12;\n                          7th to Race 13; 8th to Race 14;",
@@ -15,57 +15,57 @@
         {
           "lane": "1",
           "teamName": "DH Friends",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:50.050",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.840",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Max Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:25.250",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:17.750",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:24.240",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "ZERO",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:23.240",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "Concord Pacific Flying Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.140",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "DZPC Otters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:53.750",
+          "place": "8"
         }
       ]
     },
     {
       "heat": "2",
       "scheduledTime": "08:11:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 2",
       "advancementWording": "Advancements: 1st to Race 18; 2nd to Race 19; 3rd to Race 16;\n                          4th to Race 17; 5th to Race 14; 6th to Race 15;\n                          7th to Race 12; 8th to Race 13;",
@@ -76,57 +76,57 @@
         {
           "lane": "1",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:49.946",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "Hydro Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:36.933",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "Orca",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:27.173",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:44.324",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:20.600",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "Dragon Hybrids",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:22.986",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "Off Balance",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:01.808",
+          "place": "7"
         },
         {
           "lane": "8",
           "teamName": "DZPC Seals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:03.126",
+          "place": "8"
         }
       ]
     },
     {
       "heat": "3",
       "scheduledTime": "08:22:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 3",
       "advancementWording": "Advancements: 1st to Race 17; 2nd to Race 18; 3rd to Race 19;\n                          4th to Race 16; 5th to Race 13; 6th to Race 14;\n                          7th to Race 15; 8th to Race 12;",
@@ -187,7 +187,7 @@
     {
       "heat": "4",
       "scheduledTime": "08:33:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 4",
       "advancementWording": "Advancements: 1st to Race 16; 2nd to Race 17; 3rd to Race 18;\n                          4th to Race 19; 5th to Race 12; 6th to Race 13;\n                          7th to Race 14; 8th to Race 15;",
@@ -248,7 +248,7 @@
     {
       "heat": "5",
       "scheduledTime": "08:44:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 5",
       "advancementWording": "Advancements: 1st to Race 16; 2nd to Race 17; 3rd to Race 18;\n                          4th to Race 19; 5th to Race 12; 6th to Race 13;\n                          7th to Race 14; 8th to Race 15;",
@@ -309,7 +309,7 @@
     {
       "heat": "6",
       "scheduledTime": "08:55:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 6",
       "advancementWording": "Advancements: 1st to Race 17; 2nd to Race 18; 3rd to Race 19;\n                          4th to Race 16; 5th to Race 13; 6th to Race 14;\n                          7th to Race 15; 8th to Race 12;",
@@ -370,7 +370,7 @@
     {
       "heat": "7",
       "scheduledTime": "09:06:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 7",
       "advancementWording": "Advancements: 1st to Race 18; 2nd to Race 19; 3rd to Race 16;\n                          4th to Race 17; 5th to Race 14; 6th to Race 15;\n                          7th to Race 12; 8th to Race 13;",
@@ -431,7 +431,7 @@
     {
       "heat": "8",
       "scheduledTime": "09:17:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed Qualifier 8",
       "advancementWording": "Advancements: 1st to Race 19; 2nd to Race 16; 3rd to Race 17;\n                          4th to Race 18; 5th to Race 15; 6th to Race 12;\n                          7th to Race 13; 8th to Race 14;",
@@ -492,7 +492,7 @@
     {
       "heat": "9",
       "scheduledTime": "09:39:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Women Qualifier 1",
       "advancementWording": "Advancements: 1st and 4th to Race 24, 2nd and 3rd to Race 25;\n                          5th, 6th and 7th to Race 23;",
@@ -553,7 +553,7 @@
     {
       "heat": "10",
       "scheduledTime": "09:50:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Women Qualifier 2",
       "advancementWording": "Advancements: 1st, 4th and 5th to Race 24, 2nd and 3rd to Race 25;\n                          6th and 7th to Race 23;",
@@ -614,7 +614,7 @@
     {
       "heat": "11",
       "scheduledTime": "10:01:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Women Qualifier 3",
       "advancementWording": "Advancements: 1st, 4th and 5th to Race 25, 2nd and 3rd to Race 24;\n                          6th and 7th to Race 23;",
@@ -675,7 +675,7 @@
     {
       "heat": "12",
       "scheduledTime": "10:23:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed E/F/G/H Semi 1",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
@@ -736,7 +736,7 @@
     {
       "heat": "13",
       "scheduledTime": "10:34:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed E/F/G/H Semi 2",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
@@ -797,7 +797,7 @@
     {
       "heat": "14",
       "scheduledTime": "10:45:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed E/F/G/H Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
@@ -858,7 +858,7 @@
     {
       "heat": "15",
       "scheduledTime": "10:56:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed E/F/G/H Semi 4",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
@@ -919,7 +919,7 @@
     {
       "heat": "16",
       "scheduledTime": "11:07:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed A/B/C/D Semi 1",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
@@ -980,7 +980,7 @@
     {
       "heat": "17",
       "scheduledTime": "11:18:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed A/B/C/D Semi 2",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
@@ -1041,7 +1041,7 @@
     {
       "heat": "18",
       "scheduledTime": "11:29:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Mixed A/B/C/D Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
@@ -1102,7 +1102,7 @@
     {
       "heat": "19",
       "scheduledTime": "11:40:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Mixed A/B/C/D Semi 4",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
@@ -1163,7 +1163,7 @@
     {
       "heat": "20",
       "scheduledTime": "12:15:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Sport Hosting Vancouver Open Cup",
       "advancementWording": "",
@@ -1224,7 +1224,7 @@
     {
       "heat": "21",
       "scheduledTime": "12:26:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Concord Pacific Senior Cup",
       "advancementWording": "",
@@ -1285,7 +1285,7 @@
     {
       "heat": "22",
       "scheduledTime": "12:37:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Oddball Workshop Junior Cup",
       "advancementWording": "",
@@ -1346,7 +1346,7 @@
     {
       "heat": "23",
       "scheduledTime": "12:59:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Women Semi 1",
       "advancementWording": "Advancements: Determined by total time of the first two races",
@@ -1407,7 +1407,7 @@
     {
       "heat": "24",
       "scheduledTime": "13:10:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Women Semi 2",
       "advancementWording": "Advancements: Determined by total time of the first two races",
@@ -1468,7 +1468,7 @@
     {
       "heat": "25",
       "scheduledTime": "13:21:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Women Semi 3",
       "advancementWording": "Advancements: Determined by total time of the first two races",
@@ -1529,7 +1529,7 @@
     {
       "heat": "26",
       "scheduledTime": "13:43:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "TD Mixed H Final",
       "advancementWording": "",
@@ -1590,7 +1590,7 @@
     {
       "heat": "27",
       "scheduledTime": "13:54:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "TD Mixed G Final",
       "advancementWording": "",
@@ -1651,7 +1651,7 @@
     {
       "heat": "28",
       "scheduledTime": "14:05:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "TD Mixed F Final",
       "advancementWording": "",
@@ -1712,7 +1712,7 @@
     {
       "heat": "29",
       "scheduledTime": "14:16:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "TD Mixed E Final",
       "advancementWording": "",
@@ -1773,7 +1773,7 @@
     {
       "heat": "30",
       "scheduledTime": "14:27:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "TD Mixed D Final",
       "advancementWording": "",
@@ -1834,7 +1834,7 @@
     {
       "heat": "31",
       "scheduledTime": "14:38:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "TD Mixed C Final",
       "advancementWording": "",
@@ -1895,7 +1895,7 @@
     {
       "heat": "32",
       "scheduledTime": "14:49:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Real Canadian Superstore Mixed B Final",
       "advancementWording": "",
@@ -1956,7 +1956,7 @@
     {
       "heat": "33",
       "scheduledTime": "15:00:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "TD Mixed Grand Final",
       "advancementWording": "",
@@ -2017,7 +2017,7 @@
     {
       "heat": "34",
       "scheduledTime": "15:22:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "HKETO Women C Final",
       "advancementWording": "",
@@ -2078,7 +2078,7 @@
     {
       "heat": "35",
       "scheduledTime": "15:33:00",
-      "color": "B",
+      "color": "R",
       "status": "NotRun",
       "heatDescription": "Lincoln Women B Final",
       "advancementWording": "",
@@ -2139,7 +2139,7 @@
     {
       "heat": "36",
       "scheduledTime": "15:44:00",
-      "color": "R",
+      "color": "B",
       "status": "NotRun",
       "heatDescription": "Concord Pacific Women Grand Final",
       "advancementWording": "",
