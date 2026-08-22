@@ -188,60 +188,60 @@
       "heat": "4",
       "scheduledTime": "08:33:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 4",
       "advancementWording": "Advancements: 1st to Race 16; 2nd to Race 17; 3rd to Race 18;\n                          4th to Race 19; 5th to Race 12; 6th to Race 13;\n                          7th to Race 14; 8th to Race 15;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "08:48:21",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Wave Catchers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:47.910",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Ouroboros Platinum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.013",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Brier Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:33.662",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Starbucks Waverunners",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:17.296",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "UBC Current Bman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.541",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Twist'n Trout",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:25.287",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "STEMCELL Technologies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:40.552",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Richmond Food Bank",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:41.487",
+          "place": "7"
         }
       ]
     },
