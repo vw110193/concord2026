@@ -798,60 +798,60 @@
       "heat": "14",
       "scheduledTime": "10:45:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:01:28",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DZPC Otters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:56.740",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Fire Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:52.552",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Beer After",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:58.058",
+          "place": "8"
         },
         {
           "lane": "4",
           "teamName": "CrossNA Happy Trails",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.702",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:46.913",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Blue Bloods",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.465",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Richmond Food Bank",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:50.850",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.181",
+          "place": "3"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "heat": "15",
       "scheduledTime": "10:56:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 4",
       "advancementWording": "Advancements: 1st and 2nd to Race 29; 3rd and 4th Race 28;\n                          5th and 6th to Race 27; 7th and 8th to Race 26;",
       "penaltyWording": "",
@@ -869,50 +869,50 @@
         {
           "lane": "1",
           "teamName": "Wave Catchers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:47.554",
+          "place": "5"
         },
         {
           "lane": "2",
           "teamName": "Twisted Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:49.840",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:41.098",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "TD Green Machine",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:33.741",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:38.946",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:40.097",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "DZPC Salmon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:55.596",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "Vision Impossible",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:50.758",
+          "place": "7"
         }
       ]
     },
