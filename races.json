@@ -1286,11 +1286,11 @@
       "heat": "22",
       "scheduledTime": "12:37:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Oddball Workshop Junior Cup",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:35:49",
       "resultsPending": false,
       "results": [
         {
@@ -1308,20 +1308,20 @@
         {
           "lane": "3",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:20.626",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:21.510",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Ouroboros Platinum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:22.044",
+          "place": "3"
         },
         {
           "lane": "6",
