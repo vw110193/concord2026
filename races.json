@@ -1774,60 +1774,60 @@
       "heat": "30",
       "scheduledTime": "14:27:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "TD Mixed D Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:25:14",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.464",
+          "place": "4"
         },
         {
           "lane": "2",
           "teamName": "FLCC Fort Fusion",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:33.586",
+          "place": "7"
         },
         {
           "lane": "3",
           "teamName": "Orca",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.180",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.347",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "TCC Dragoneers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:32.601",
+          "place": "6"
         },
         {
           "lane": "6",
           "teamName": "Brier Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:33.936",
+          "place": "8"
         },
         {
           "lane": "7",
           "teamName": "Inlet Spirit",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:32.451",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "UBC Current Bman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:27.246",
+          "place": "1"
         }
       ]
     },
