@@ -1351,50 +1351,50 @@
       "heatDescription": "Women Semi 1",
       "advancementWording": "Advancements: Determined by total time of the first two races",
       "penaltyWording": "",
-      "updatedTime": "12:52:32",
+      "updatedTime": "13:01:01",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.840",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Sea Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:42.367",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Rainbow Riders",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.643",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:30.305",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Century Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:37.362",
+          "place": "4"
         },
         {
           "lane": "6",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:36.394",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Momentum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:44.469",
+          "place": "6"
         },
         {
           "lane": "8",
@@ -1408,7 +1408,7 @@
       "heat": "24",
       "scheduledTime": "13:10:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Semi 2",
       "advancementWording": "Advancements: Determined by total time of the first two races",
       "penaltyWording": "",
@@ -1418,44 +1418,44 @@
         {
           "lane": "1",
           "teamName": "Inlet Spirit Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:37.125",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:33.204",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "False Creek BCP",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:22.093",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:14.419",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:16.337",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Dragon Ladies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:21.910",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "UBC Current Aywomen",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:30.118",
+          "place": "5"
         },
         {
           "lane": "8",
