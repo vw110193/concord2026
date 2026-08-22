@@ -1186,20 +1186,20 @@
         {
           "lane": "3",
           "teamName": "UBC Current Aymen",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:07.094",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone Premier Open",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:51.745",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Dragon Zone 18U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:02.622",
+          "place": "2"
         },
         {
           "lane": "6",
@@ -1225,11 +1225,11 @@
       "heat": "21",
       "scheduledTime": "12:26:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Concord Pacific Senior Cup",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:28:30",
       "resultsPending": false,
       "results": [
         {
@@ -1241,38 +1241,38 @@
         {
           "lane": "2",
           "teamName": "DH Friends",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.001",
+          "place": "3"
         },
         {
           "lane": "3",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.531",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Inlet Spirit",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:20.724",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.434",
+          "place": "5"
         },
         {
           "lane": "6",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.151",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Paddle Power Seniors",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:43.763",
+          "place": "6"
         },
         {
           "lane": "8",
