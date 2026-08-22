@@ -1164,11 +1164,11 @@
       "heat": "20",
       "scheduledTime": "12:15:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Sport Hosting Vancouver Open Cup",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "12:21:40",
+      "updatedTime": "12:26:36",
       "resultsPending": false,
       "results": [
         {
