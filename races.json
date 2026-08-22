@@ -1652,60 +1652,60 @@
       "heat": "28",
       "scheduledTime": "14:05:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "TD Mixed F Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:04:06",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:44.018",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "Metro Vancouver 44 Cheeks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:40.381",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:45.720",
+          "place": "8"
         },
         {
           "lane": "4",
           "teamName": "Concord Pacific Flying Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.973",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:39.263",
+          "place": "4"
         },
         {
           "lane": "6",
           "teamName": "Concord Pacific Flying Twisted Dragon Hips 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.389",
+          "place": "1"
         },
         {
           "lane": "7",
           "teamName": "Blue Bloods",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:44.936",
+          "place": "7"
         },
         {
           "lane": "8",
           "teamName": "Quantum Guardian",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:38.229",
+          "place": "3"
         }
       ]
     },
