@@ -554,7 +554,7 @@
       "heat": "10",
       "scheduledTime": "09:50:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Qualifier 2",
       "advancementWording": "Advancements: 1st, 4th and 5th to Race 24, 2nd and 3rd to Race 25;\n                          6th and 7th to Race 23;",
       "penaltyWording": "",
@@ -615,54 +615,54 @@
       "heat": "11",
       "scheduledTime": "10:01:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Qualifier 3",
       "advancementWording": "Advancements: 1st, 4th and 5th to Race 25, 2nd and 3rd to Race 24;\n                          6th and 7th to Race 23;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:54:07",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:54.523",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:45.698",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "False Creek BCP",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.270",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone Premier Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:14.534",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Dragon Ladies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:38.875",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:39.508",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Sea Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:57.076",
+          "place": "7"
         },
         {
           "lane": "8",
@@ -1356,43 +1356,43 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "7th from Race 9",
+          "teamName": "Braggin Dragons 2",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "7th from Race 11",
+          "teamName": "Sea Gals",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "6th from Race 10",
+          "teamName": "Rainbow Riders",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "5th from Race 9",
+          "teamName": "Chawanda - SDBA",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "6th from Race 9",
+          "teamName": "Century Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "6th from Race 11",
+          "teamName": "Gals on the Gunnel",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "7th from Race 10",
+          "teamName": "Momentum",
           "totalTime": "",
           "place": ""
         },
@@ -1417,43 +1417,43 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "5th from Race 10",
+          "teamName": "Inlet Spirit Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "4th from Race 9",
+          "teamName": "FCRCC Saggin Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 11",
+          "teamName": "False Creek BCP",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 10",
+          "teamName": "FCRCC SrC Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "1st from Race 9",
+          "teamName": "FLCC Race Crew",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "3rd from Race 11",
+          "teamName": "Dragon Ladies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "4th from Race 10",
+          "teamName": "UBC Current Aywomen",
           "totalTime": "",
           "place": ""
         },
@@ -1478,43 +1478,43 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "5th from Race 11",
+          "teamName": "Atomic Furies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "3rd from Race 9",
+          "teamName": "Quantum Princess",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "2nd from Race 10",
+          "teamName": "Inlet Storm",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "1st from Race 11",
+          "teamName": "Dragon Zone Premier Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "2nd from Race 9",
+          "teamName": "Stroke the Dragon",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "3rd from Race 10",
+          "teamName": "Sisters in Sync",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "4th from Race 11",
+          "teamName": "FLCC Dragonflies",
           "totalTime": "",
           "place": ""
         },
