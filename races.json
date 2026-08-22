@@ -2018,11 +2018,11 @@
       "heat": "34",
       "scheduledTime": "15:22:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "HKETO Women C Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "15:35:09",
       "resultsPending": false,
       "results": [
         {
@@ -2034,38 +2034,38 @@
         {
           "lane": "2",
           "teamName": "Momentum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:04.831",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:59.826",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Quantum Princess",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:51.417",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Century Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:03.880",
+          "place": "4"
         },
         {
           "lane": "6",
           "teamName": "Sea Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:01.778",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "03:16.426",
+          "place": "6"
         },
         {
           "lane": "8",
