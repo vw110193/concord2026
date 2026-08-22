@@ -314,56 +314,56 @@
       "heatDescription": "Mixed Qualifier 6",
       "advancementWording": "Advancements: 1st to Race 17; 2nd to Race 18; 3rd to Race 19;\n                          4th to Race 16; 5th to Race 13; 6th to Race 14;\n                          7th to Race 15; 8th to Race 12;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:09:16",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Twisted Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.077",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Metro Vancouver 44 Cheeks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:39.802",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Otter Chaos",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:25.555",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "FCRCC Premier",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:08.271",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "UBC Current Ayman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:15.578",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Inlet Spirit",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:26.773",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Grandragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:51.981",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "Blue Bloods",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:45.324",
+          "place": "6"
         }
       ]
     },
