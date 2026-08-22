@@ -1347,11 +1347,11 @@
       "heat": "23",
       "scheduledTime": "12:59:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Semi 1",
       "advancementWording": "Advancements: Determined by total time of the first two races",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:52:32",
       "resultsPending": false,
       "results": [
         {
