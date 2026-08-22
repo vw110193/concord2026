@@ -1713,60 +1713,60 @@
       "heat": "29",
       "scheduledTime": "14:16:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "TD Mixed E Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:12:14",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:39.415",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Kitsch 'N Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.711",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Stantec Splash",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:21.780",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "TD Green Machine",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.070",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "CrossNA Happy Trails",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:23.299",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Ouroboros Platinum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:37.096",
+          "place": "6"
         },
         {
           "lane": "7",
           "teamName": "DH Motley Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.710",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:37.446",
+          "place": "7"
         }
       ]
     },
