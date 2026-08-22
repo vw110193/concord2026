@@ -1042,60 +1042,60 @@
       "heat": "18",
       "scheduledTime": "11:29:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed A/B/C/D Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:25:12",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Max Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:29.544",
+          "place": "5"
         },
         {
           "lane": "2",
           "teamName": "Reach It Out (RIO) dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:30.695",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:17.215",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone 24U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:06.421",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:18.283",
+          "place": "4"
         },
         {
           "lane": "6",
           "teamName": "UBC Current Ayman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:17.382",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "UBC Current Bman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.599",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.232",
+          "place": "7"
         }
       ]
     },
