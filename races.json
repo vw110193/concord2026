@@ -1530,60 +1530,60 @@
       "heat": "26",
       "scheduledTime": "13:43:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "TD Mixed H Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:34:15",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DZPC Seals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:55.787",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "DZPC Salmon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:41.423",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "Off Balance",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:56.638",
+          "place": "8"
         },
         {
           "lane": "4",
           "teamName": "DZPC Otters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:35.851",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "DH Friends",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:34.933",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "Vision Impossible",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:39.488",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Harbour Kollective",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.163",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Beer After",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:46.478",
+          "place": "5"
         }
       ]
     },
