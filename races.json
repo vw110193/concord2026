@@ -1896,60 +1896,60 @@
       "heat": "32",
       "scheduledTime": "14:49:00",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Real Canadian Superstore Mixed B Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:42:22",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Dragon Hybrids",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:24.761",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:26.879",
+          "place": "8"
         },
         {
           "lane": "3",
           "teamName": "UBC Current Ayman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:16.936",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "DH Velocity",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:20.723",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:18.338",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "SFU Shockwave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:19.355",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:18.938",
+          "place": "3"
         },
         {
           "lane": "8",
           "teamName": "Chinatown Flower Bridge",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:23.760",
+          "place": "6"
         }
       ]
     },
