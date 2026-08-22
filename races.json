@@ -981,60 +981,60 @@
       "heat": "17",
       "scheduledTime": "11:18:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed A/B/C/D Semi 2",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:16:41",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Hydro Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:28.084",
+          "place": "5"
         },
         {
           "lane": "2",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.738",
+          "place": "8"
         },
         {
           "lane": "3",
           "teamName": "Twist'n Trout",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:29.436",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "FCRCC Premier",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:09.416",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Dragon Zone 18U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:14.120",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "SFU Shockwave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:18.892",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:26.116",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "TCC Dragoneers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:31.654",
+          "place": "7"
         }
       ]
     },
