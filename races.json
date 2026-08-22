@@ -2079,54 +2079,54 @@
       "heat": "35",
       "scheduledTime": "15:33:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Lincoln Women B Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "15:42:04",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Rainbow Riders",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:48.121",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Inlet Spirit Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:45.218",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:47.270",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "Inlet Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:42.048",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:42.932",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:44.100",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "02:43.750",
+          "place": "3"
         },
         {
           "lane": "8",
