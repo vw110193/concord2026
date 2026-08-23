@@ -2204,81 +2204,81 @@
       "status": "NotRun",
       "heatDescription": "Concord Pacific Premier Guts and Glory",
       "advancementWording": "",
-      "penaltyWording": "",
-      "updatedTime": "16:16:53",
+      "penaltyWording": "Boat 12: 5 second penalty for a running start plus 5 second penalty for failure to follow official's instructions.",
+      "updatedTime": "18:30:32",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Chinatown Flower Bridge",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:23.026",
+          "place": "11"
         },
         {
           "lane": "2",
           "teamName": "DH Velocity",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:29.242",
+          "place": "12"
         },
         {
           "lane": "3",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:24.588",
+          "place": "7"
         },
         {
           "lane": "4",
           "teamName": "Dragon Zone 18U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:48.729",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:17.284",
+          "place": "6"
         },
         {
           "lane": "6",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:34.394",
+          "place": "8"
         },
         {
           "lane": "7",
           "teamName": "Starbucks Waverunners",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:37.391",
+          "place": "9"
         },
         {
           "lane": "8",
           "teamName": "UBC Current Ayman",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:46.376",
+          "place": "10"
         },
         {
           "lane": "9",
           "teamName": "FCRCC Premier",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:12.610",
+          "place": "2"
         },
         {
           "lane": "10",
           "teamName": "JUICEBOX",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:19.443",
+          "place": "4"
         },
         {
           "lane": "11",
           "teamName": "Dragon Zone 24U Mixed",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:18.369",
+          "place": "3"
         },
         {
           "lane": "12",
           "teamName": "JUICE",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "09:54.094",
+          "place": "1"
         }
       ]
     }
